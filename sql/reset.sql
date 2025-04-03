@@ -1,0 +1,1 @@
+update employees set salary = 1000;
